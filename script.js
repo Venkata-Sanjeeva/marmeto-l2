@@ -1,4 +1,4 @@
-console.log("Hello");
+
 const cartBtn = document.querySelector('.cart-btn');
 
 cartBtn.addEventListener('click',() => {
